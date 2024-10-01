@@ -2,9 +2,9 @@
 
 **Mirror-Image**
 
-- When **true**, the camera image is mirrored left-to-right.
+- When **enable**, the camera image is mirrored left-to-right.
 
-Default Value: `false`
+Default Value: `disable`
 
 See [here](../datasheets/Camera.ov2640_ds_1.8_.pdf) for the ov2640 camera datasheet.<br>
 See [here](../datasheets/OV5640_datasheet.pdf) for the ov5640 camera datasheet.

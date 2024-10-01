@@ -2,10 +2,10 @@
 
 **Auto-Sharpness**
 
-- When **true**, the camera attempts to automatically adjusts the sharpness.
-- When **false**, the **CamSharpness** setting is used instead.
+- When **enable**, the camera attempts to automatically adjusts the sharpness.
+- When **disable**, the **CamSharpness** setting is used instead.
 
-Default Value: `false`
+Default Value: `disable`
 
 See [here](../datasheets/Camera.ov2640_ds_1.8_.pdf) for the ov2640 camera datasheet.<br>
 See [here](../datasheets/OV5640_datasheet.pdf) for the ov5640 camera datasheet.

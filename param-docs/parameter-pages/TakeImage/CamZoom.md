@@ -2,9 +2,9 @@
 
 **Digital-Zoom**
 
-- Enable/Disable digital zoom.
+- enable/disable digital zoom.
 
-Default Value: `false`
+Default Value: `disable`
 
 See [here](../datasheets/Camera.ov2640_ds_1.8_.pdf) for the ov2640 camera datasheet.<br>
 See [here](../datasheets/OV5640_datasheet.pdf) for the ov5640 camera datasheet.
