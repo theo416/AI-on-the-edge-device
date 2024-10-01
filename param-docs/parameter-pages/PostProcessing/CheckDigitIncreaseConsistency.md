@@ -1,5 +1,5 @@
 # Parameter `CheckDigitIncreaseConsistency`
-Default Value: `false`
+Default Value: `disable`
 
 !!! Warning
     This is an **Expert Parameter**! Only change it if you understand what it does!

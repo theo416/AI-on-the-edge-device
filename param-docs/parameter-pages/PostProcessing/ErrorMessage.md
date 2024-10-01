@@ -1,5 +1,5 @@
 # Parameter `ErrorMessage`
-Default Value: `true`
+Default Value: `enable`
 
 !!! Warning
     This is an **Expert Parameter**! Only change it if you understand what it does!

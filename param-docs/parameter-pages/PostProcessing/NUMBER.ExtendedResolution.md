@@ -1,5 +1,5 @@
 # Parameter `<NUMBER>.ExtendedResolution`
-Default Value: `false`
+Default Value: `disable`
 
 Use the decimal place of the last analog counter for increased accuracy.
 
