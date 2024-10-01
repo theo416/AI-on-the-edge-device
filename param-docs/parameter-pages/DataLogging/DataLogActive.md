@@ -1,5 +1,5 @@
 # Parameter `DataLogActive`
-Default Value: `true`
+Default Value: `enable`
 Activate data logging to the SD-Card.
 
 The files will be stored in `/log/data/data_YYYY-MM-DD.csv`. See [`Data Logging`](../data-logging) for details.
